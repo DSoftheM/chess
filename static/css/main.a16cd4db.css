@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.app{align-items:center;height:100vh;justify-content:center}.app,.board{display:flex}.board{flex-wrap:wrap;height:512px;width:512px}.cell{align-items:center;display:flex;height:64px;justify-content:center;padding:8px;width:64px}.cell img{position:relative;width:100%}.black{background:#00bfff}.white{background:#eed4ac}.selected{background-color:brown}.available{background-color:#339952;border-radius:50%;height:12px;width:12px}.attack{background-color:#eb6840;border-radius:10px}
+/*# sourceMappingURL=main.a16cd4db.css.map*/
